@@ -8,7 +8,7 @@ Project Overview:
   <li> Compiled the module using adam optimizer, accuracy metrics and categorical_crossentropy loss function </li> 
 <li> Evaluated the accuracy and loss of the model </li>
 <li> Achieved image augumentation using the ImageDataGenerator </li>
- <li> Saved the module in a new directory  </li>
+ <li> Saved the module in a new directory </li>
 
 </ul>
 
@@ -16,7 +16,7 @@ Project Overview:
 <ul>
   <li>Python version- 3.9</li>
   <li>Packages- Pandas, Numpy, Matplotlib, Seaborn, sklearn, os, Keras, Tenserflow</li>
-  <li> Tools and algorithms- Google colab, stopwords, train_test_split, CountVectorizer, Naive_bayes, MultinomialNB, confusion_matrix, classification_report </li> 
+  <li> Tools and algorithms- Google colab, cifar100, train_test_split, to_categorical, Conv2D, sequential, confusion_matrix, Dropout, MaxPooling2D, Flatten, Dense, ImageDataGenerator </li> 
 </ul>
 
 # Data Exploration:
